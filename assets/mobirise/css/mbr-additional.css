@@ -1826,6 +1826,20 @@ body {
     -webkit-flex-basis: initial !important;
   }
 }
+.cid-r8WnSEZFCI {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-r8WnSEZFCI h1 {
+  color: #616161;
+}
+.cid-r8WnSEZFCI h2,
+.cid-r8WnSEZFCI h3,
+.cid-r8WnSEZFCI p {
+  color: #767676;
+}
+.cid-r8WnSEZFCI .mbr-section-subtitle {
+  font-style: italic;
+}
 .cid-r8NIUHnW1o .navbar {
   padding: .5rem 0;
   background: #ffffff;
